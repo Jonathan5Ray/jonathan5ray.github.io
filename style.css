@@ -10,3 +10,7 @@ ul.main-menu>li {
 p {
     font-family: "Arial", Times, serif;
 }
+
+body {
+    text-align: left;
+}
