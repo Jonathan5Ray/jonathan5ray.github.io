@@ -6,3 +6,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+
+p {
+    font-family: "Arial", Times, serif;
+}
