@@ -1,4 +1,3 @@
-
 ul.main-menu {
     list-style-type: none;
     margin: 0;
@@ -10,14 +9,57 @@ ul.main-menu: li{
 
 
 p {
-    font-family: "Arial";
+     font-family: "Arial";
     font-size: 14px;
+
     color: red;
     text-align: center;
     text-indent: 5px;
 }
 
-p2 { font-family: "Arial";
+p2 {
+    font-family: "Arial";
+    font-size: 14px;
+    color: red; 
+
+    text-align: center;
+
+    text-indent: 5px;
+}
+
+p3 {
+    font-family: "Arial";
+    font-size: 14px;
+    color: red; 
+    text-align: center;
+    text-indent: 5px;
+}
+
+p4 {
+    font-family: "Arial";
+    font-size: 14px;
+    color: red; 
+    text-align: center;
+    text-indent: 5px;
+}
+
+p5 {
+    font-family: "Arial";
+    font-size: 14px;
+    color: red; 
+    text-align: center;
+    text-indent: 5px;
+}
+p6 {
+    font-family: "Arial";
+    font-size: 14px;
+    color: red; 
+    text-align: center;
+    text-indent: 5px;
+}
+
+p7 {
+    font-family: "Arial";
     font-size: 14px;
     color: red; 
     text-align: center;
