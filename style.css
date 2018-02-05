@@ -1,3 +1,4 @@
+
 ul.main-menu {
     list-style-type: none;
     margin: 0;
@@ -12,12 +13,14 @@ p {
     font-size: 14px;
     color: red;
     text-align: center;
+    text-indent: 5px;
 }
 
 p2 { font-family: "Arial";
     font-size: 14px;
     color: red; 
     text-align: center;
+    text-indent: 5px;
 }
 
 body { background-color: gold; }
