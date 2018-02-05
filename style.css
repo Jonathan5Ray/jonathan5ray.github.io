@@ -4,15 +4,10 @@ ul.main-menu {
     margin: 0;
     padding: 0;
 }
-ul.main-menu: li {
+ul.main-menu: li{
     display: inline;
 }
 
-ul.horizontal li{
-display:block;
-float:left;
-padding:0 10px;
-}
 
 p {
     font-family: "Arial";
