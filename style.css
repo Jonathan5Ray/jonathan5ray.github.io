@@ -3,7 +3,7 @@ ul.main-menu {
     margin: 3;
     padding: 5;
 }
-ul.main-menu>: li {
+<ul.main-menu>: li {
     display: inline;
 }
 
@@ -20,7 +20,7 @@ p2 { font-family: "Arial";
     text-align: center;
 }
 
-body { background-color: grey; }
+body { background-color: gold; }
 
 
 }
