@@ -8,9 +8,16 @@ ul.main-menu>li {
 }
 
 p {
-    font-family: "Arial", Times, serif;
+    font-family: "Arial", "Arial", serif;
+    color: orange;
 }
+
+background-color: light blue
 
 body {
     text-align: center;
 }
+h1 { font-family: "Allen Font"
+    background-color: black;
+    color: red;}
+
