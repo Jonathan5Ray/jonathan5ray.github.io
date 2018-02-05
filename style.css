@@ -9,14 +9,14 @@ ul.main-menu>li {
 
 p {
     font-family: "Arial", "allen font", serif;
-    font-size: 25px;
+    font-size: 14px;
     color: red;
 }
-p2 { font-family: "arial"
-    font-size: 25px;
+p2 { font-family: "Arial";
+    font-size: 14px;
     color: red; }
 
-background-color: light-blue
+background-color: light-blue;
 
 body {
     text-align: center;
@@ -26,4 +26,10 @@ h1 { font-family: "Allen Font";
     font-style: italic;
     font-size: 45px;
     color: orange;}
+h2 { font-family: "Allen Font";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    color: orange;}
+    
 
