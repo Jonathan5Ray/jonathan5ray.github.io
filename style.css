@@ -8,19 +8,16 @@ ul.main-menu>li {
 }
 
 p {
-    font-family: "Arial", "allen font", serif;
+    font-family: "Arial";
     font-size: 14px;
     color: red;
 }
-<div class=container4>
-  <p>Centered!
-</div>
+
 p2 { font-family: "Arial";
     font-size: 14px;
-    color: red; }
-<div class=container4>
-  <p2>Centered!
-</div>
+    color: red; 
+}
+
 
 body {
     text-align: center;
