@@ -3,7 +3,7 @@ ul.main-menu {
     margin: 3;
     padding: 5;
 }
-ul.main-menu>li {
+ul.main-menu>: li {
     display: inline;
 }
 
@@ -11,26 +11,33 @@ p {
     font-family: "Arial";
     font-size: 14px;
     color: red;
+    text-align: center;
 }
 
 p2 { font-family: "Arial";
     font-size: 14px;
     color: red; 
+    text-align: center;
 }
 
+body { background-color: grey; }
 
-body {
-    text-align: center;
+
 }
 h1 { font-family: "Allen Font";
     font-weight: bold;
     font-style: italic;
     font-size: 45px;
-    color: orange;}
+    color: orange;
+    text-align: left;
+}
+
 h2 { font-family: "Impact
     font-weight: bold;
     font-style: italic;
     font-size: 45px;
-    color: black;}
+    color: black;
+    text-align: left;
+}
     
 
