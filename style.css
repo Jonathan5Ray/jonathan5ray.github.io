@@ -1,9 +1,9 @@
 ul.main-menu {
     list-style-type: none;
-    margin: 3;
-    padding: 5;
+    margin: 0;
+    padding: 0;
 }
-<ul.main-menu>: li {
+ul.main-menu: li {
     display: inline;
 }
 
