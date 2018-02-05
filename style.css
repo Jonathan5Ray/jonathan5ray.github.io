@@ -1,7 +1,7 @@
 ul.main-menu {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 3;
+    padding: 5;
 }
 ul.main-menu>li {
     display: inline;
@@ -9,15 +9,21 @@ ul.main-menu>li {
 
 p {
     font-family: "Arial", "allen font", serif;
+    font-size: 25px;
     color: red;
 }
+p2 { font-family: "arial"
+    font-size: 25px;
+    color: red; }
 
 background-color: light-blue
 
 body {
     text-align: center;
 }
-h1 { font-family: "Allen Font"
-    background-color: black;
-    color: light blue;}
+h1 { font-family: "Allen Font";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    color: orange;}
 
