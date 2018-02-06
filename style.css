@@ -35,45 +35,6 @@ p2 {
 </div>
 }
 
-p3 {
-    font-family: "Arial";
-    font-size: 14px;
-    color: red; 
-    text-align: center;
-    text-indent: 5px;
-}
-
-p4 {
-    font-family: "Arial";
-    font-size: 14px;
-    color: red; 
-    text-align: center;
-    text-indent: 5px;
-}
-
-p5 {
-    font-family: "Arial";
-    font-size: 14px;
-    color: red; 
-    text-align: center;
-    text-indent: 5px;
-}
-p6 {
-    font-family: "Arial";
-    font-size: 14px;
-    color: red; 
-    text-align: center;
-    text-indent: 5px;
-}
-
-p7 {
-    font-family: "Arial";
-    font-size: 14px;
-    color: red; 
-    text-align: center;
-    text-indent: 5px;
-}
-
 body { background-color: gold; }
 
 
@@ -84,6 +45,11 @@ h1 { font-family: "Allen Font";
     font-size: 45px;
     color: orange;
     text-align: left;
+    <div style="display:table;">
+  <div style="display:table-cell;vertical-align:middle;">
+    <div style="margin-left:auto;margin-right:auto;"></div>
+  </div>
+</div>
 }
 
 h2 { font-family: "Impact
