@@ -11,10 +11,14 @@ ul.main-menu: li{
 p {
      font-family: "Arial";
     font-size: 14px;
-
     color: red;
     text-align: center;
     text-indent: 5px;
+    <div style="display:table;">
+  <div style="display:table-cell;vertical-align:middle;">
+    <div style="margin-left:auto;margin-right:auto;"></div>
+  </div>
+</div>
 }
 
 p2 {
