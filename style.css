@@ -44,12 +44,8 @@ h1 { font-family: "Allen Font";
     font-style: italic;
     font-size: 45px;
     color: orange;
-    text-align: left;
-    <div style="display:table;">
-  <div style="display:table-cell;vertical-align:middle;">
-    <div style="margin-left:auto;margin-right:auto;"></div>
-  </div>
-</div>
+    text-align: center;
+    
 }
 
 h2 { font-family: "Impact
@@ -62,4 +58,5 @@ h2 { font-family: "Impact
 footer {
     font-size: 30px;
     font-color: black;
+    text-align: center;
 }
