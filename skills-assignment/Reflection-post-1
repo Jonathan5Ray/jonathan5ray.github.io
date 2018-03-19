@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+  
+  
+<h1 ALIGN=CENTER> Reflection Post One </h1>
+<nav ALIGN=CENTER><ul class="main-menu">
+  <li><a href="/portfolio/">Final Portfolio</a></li>
+  <li><a href="/biography/">Biography</a></li>
+  <li><a href="/work-in-progress-1/">Work in Progress 1</a></li>
+  <li><a href="/work-in-progress-2/">Work in Progress 2</a></li>
+  <li><a href="/work-in-progress-presentation/">Presentation</a></li>
+  <li><a href="/skills-assignment/">Skills Assignment</a></li>
+<main>
+<h2 Reflection Post Two </h2>
+
+<center>
+  <p> WELCOME!
+   
+  </center>
+  </P>  <li><a href="/work-in-progress-1/work-1/">Week One Writing</a></li>
+  
+  
+    <li><a href="/work-in-progress-1/work-2/">Week Four Writing</a></li>
+
+  </MAIN>
+</body>
+  <FOOTER ALIGN=CENTER> </FOOTER>
+</html>
