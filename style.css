@@ -44,8 +44,8 @@ body { background-color: red; }
 h1 { font-family: "Allen Font";
     font-weight: bold;
     font-style: italic;
-    font-size: 45px;
-    color: orange;
+    font-size: 55px;
+    color: blue;
     text-align: center;
     
 }
@@ -53,7 +53,7 @@ h1 { font-family: "Allen Font";
 h2 { font-family: "Impact";
     font-weight: bold;
     font-style: italic;
-    font-size: 45px;
+    font-size: 55px;
     color: black;
     text-align: center;
 }
